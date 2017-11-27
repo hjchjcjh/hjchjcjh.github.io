@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Struts S2-052漏洞利用]]></title>
     <url>%2F2017%2F09%2F02%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <content type="text"><![CDATA[之前提交到 Freebuf的文章，现在在博客这里也保存一下记录。 实验环境靶机：101.200.58.X （win2008x64+tomcat8.5+Struts 2.5.12） 漏洞地址：http://101.200.58.X:8080/struts2-rest-showcase/orders.xhtml Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
   <entry>
     <title><![CDATA[想了解我？]]></title>
